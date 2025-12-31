@@ -1,6 +1,6 @@
 # Housing_Data_Analysis_with_Visualization
 
-Hello! I am Hafiz Huzaifa Bin Waqas, currently studying Software Engineering in UBIT.
+Hello! I am Hafiz Huzaifa Bin Waqas, currently studying Software Engineering at UBIT.
 
 PROJECT: Housing Data Analysis with Visualization
 
